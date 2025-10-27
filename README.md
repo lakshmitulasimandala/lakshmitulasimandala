@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 - 🎓 BSMS Student at Vishwa Vishwani Institute of Systems and Management  
-- 💻 Currently exploring **MERN Development**  
+- 💻 Currently exploring **MERN Development** through Nxtwave
 - 🤖 Passionate about **AI, Machine Learning, and Generative AI**  
 - 🌟 Loves blending creativity with technology  
 - ⚡ Fun fact: I turn caffeine and code into cool projects ✨  
